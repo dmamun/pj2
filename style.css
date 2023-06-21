@@ -1,0 +1,22 @@
+a{
+  background-color: #4ccbcf;
+  color:black;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin:2px solid black;
+}
+.div1{
+    background-color: aqua;
+    color:black;
+    border:3px solid black;
+}
+.article1{
+    background-color: rgb(191, 211, 101);
+    color:black;
+    margin:3px solid black;
+}
+table,td,th{
+  border:2px solid black;
+}
